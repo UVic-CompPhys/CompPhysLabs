@@ -17,3 +17,8 @@ TheChandrasekharMass.ipynb is a jupyter notebook with a problem proposed and imp
 
 BobKowalewski1.ipynb
 BobKowalewski2.ipynb
+
+## phys502A (Classical Electrodynamics)
+Computational Physics Lab Work
+
+MyLorentzTransform.ipynb
